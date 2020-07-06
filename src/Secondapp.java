@@ -27,7 +27,7 @@ public class Secondapp {
         }
         System.out.println();
 
-        int[][] arr2 = new int[6][6];
+        int[][] arr2 = new int[5][5];
         for (int j = 0; j < arr2.length; j++) {
             for (int w = 0; w < arr2[j].length; w++) {
                 if (j == w) {
