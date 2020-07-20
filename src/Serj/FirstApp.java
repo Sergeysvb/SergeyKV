@@ -13,7 +13,7 @@ public class FirstApp {
 
         System.out.println(a);
         System.out.println(b);
-        System.out.println(calculate(2, 2, 6, 2));
+        System.out.println(calculate(2, 2, 10, 3));
         System.out.println(task10and20(4, 6));
         isPositiveOrNegative(5);
         System.out.println(isNegative(-15));
@@ -21,7 +21,7 @@ public class FirstApp {
 
     }
 
-    public static int calculate(int a, int b, int c, int d) {
+    public static float calculate(float a, float b, float c, float d) {
         return a * (b + (c / d));
     }
 
