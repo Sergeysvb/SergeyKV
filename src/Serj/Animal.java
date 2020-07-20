@@ -31,6 +31,7 @@ public class Animal {
 
     public void info() {
         System.out.println(this.type + " " + this.name + " Пробежала: " + this.maxRun + " м. Проплыла: " + this.maxSwim + " м. Перепрыгнула: " + this.maxJump + " м.");
+
     }
 }
 

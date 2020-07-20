@@ -7,5 +7,6 @@ public class Dog extends Animal {
         this.maxRun = random.nextInt(500);
         this.maxSwim = random.nextInt(10);
         this.maxJump = random.nextDouble();
+
     }
 }

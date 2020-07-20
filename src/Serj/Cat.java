@@ -6,6 +6,7 @@ public class Cat extends Animal {
         this.maxJump = random.nextInt(2);
         this.maxRun = random.nextInt(200);
         this.type = "Cat";
+
     }
 
     @Override

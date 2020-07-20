@@ -7,7 +7,7 @@ package Serj;
 5. * Добавить животным разброс в ограничениях. То есть у одной собаки ограничение на бег может быть 400 м., у другой 600 м. */
 public class Main2 {
     public static void main(String[] args) {
-        Cat cat = new Cat("Kisa");
+        Cat cat = new Cat("Kiska");
         Dog dog = new Dog("Sharik");
 
 
